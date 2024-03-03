@@ -1,0 +1,1 @@
+For this project, you need to set up a virtual environment and install numpy and matplotlib. Run the file in a directory with a .jpeg image, and then when prompted, type image-name.jpeg. 
